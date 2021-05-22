@@ -4,4 +4,4 @@ Projeto do curso <a href="https://www.origamid.com/curso/css-grid-layout/">CSS G
 
 Projeto realizado com o intuito de praticar a produção de páginas na web, se utilizando de HTML e colocando em prática a nova especificação CSS Grid Layout.
 
-Me siga no <a href="https://www.linkedin.com/in/jose-de-souza/"><img width="20" height="20" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"> Linkedin</a>
+Me siga no <a href="https://www.linkedin.com/in/jose-de-souza/">Linkedin</a>
